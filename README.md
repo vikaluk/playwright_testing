@@ -1,3 +1,11 @@
+# Video presentation
+
+
+
+https://github.com/user-attachments/assets/eac187fe-1cb4-49ca-8ab1-dd5d8f587e7b
+
+
+
 # playwright-sample-project
 
 ## **Overview:**
@@ -39,8 +47,6 @@ For Demo purpose UI test cases are created on [advantageonlineshopping.com](http
 ##### 1. Installation
 
 Playwright framework requires [Node.js](https://nodejs.org/) v14+ to run.
-
-Code from github need to be [download](https://github.com/VinayKumarBM/playwright-sample-project/archive/refs/heads/master.zip) OR [cloned](https://github.com/VinayKumarBM/playwright-sample-project.git) using git command.
 
 Installing the dependencies.
 ```sh
@@ -92,4 +98,3 @@ Execution log will be present in the log file.
 test-results/logs/execution.log
 ```
 ##  ##
-**:pencil: If you find my work interesting don't forget to give a Star :star: & Follow me :busts_in_silhouette:**
